@@ -1,0 +1,6 @@
+theme = Github Dark
+background-opacity = 0.9
+background-blur = 20
+macos-vibrancy = true
+macos-vibrancy-type = hud
+background-color = #1E3A8A  # deep blue

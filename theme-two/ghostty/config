@@ -1,0 +1,8 @@
+
+theme=Catppuccin Macchiato
+
+background = #232259
+background-opacity = 0.8
+background-blur-radius = 40
+
+macos-titlebar-style = transparent
