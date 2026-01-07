@@ -32,3 +32,9 @@ How to find your Neovim configs on Mac
 cd ~/.config/nvim
 ```
 
+How to find your Ghostty configs on Mac
+
+```
+cd ~/.config/ghostty
+```
+
